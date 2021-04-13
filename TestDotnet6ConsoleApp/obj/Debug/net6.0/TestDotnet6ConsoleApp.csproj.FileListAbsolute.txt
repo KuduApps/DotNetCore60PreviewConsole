@@ -1,0 +1,15 @@
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\bin\Debug\net6.0\TestDotnet6ConsoleApp.exe
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\bin\Debug\net6.0\TestDotnet6ConsoleApp.deps.json
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\bin\Debug\net6.0\TestDotnet6ConsoleApp.runtimeconfig.json
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\bin\Debug\net6.0\TestDotnet6ConsoleApp.runtimeconfig.dev.json
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\bin\Debug\net6.0\TestDotnet6ConsoleApp.dll
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\bin\Debug\net6.0\ref\TestDotnet6ConsoleApp.dll
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\bin\Debug\net6.0\TestDotnet6ConsoleApp.pdb
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\TestDotnet6ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\TestDotnet6ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\TestDotnet6ConsoleApp.AssemblyInfo.cs
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\TestDotnet6ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\TestDotnet6ConsoleApp.dll
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\ref\TestDotnet6ConsoleApp.dll
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\TestDotnet6ConsoleApp.pdb
+C:\Users\puvasude\source\repos\TestDotnet6ConsoleApp\TestDotnet6ConsoleApp\obj\Debug\net6.0\TestDotnet6ConsoleApp.genruntimeconfig.cache
